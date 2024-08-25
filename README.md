@@ -1,7 +1,7 @@
 # MERN Blog Website
 
 # Overview
-This is a full-featured blog website developed using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to create, read, update, and delete (CRUD) blog posts, manage their profiles, and authenticate using OAuth. The admin panel provides additional controls for managing the content and users.
+This is a full-featured blog website developed using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to create, read, update, and delete (CRUD) blog posts, manage their profiles, authenticate using OAuth, and interact with posts through comments and likes. The admin panel provides additional controls for managing the content and users.
 
 # Features
  Blog CRUD Operations: Users can create, view, update, and delete blog posts.
@@ -12,7 +12,9 @@ Rich Text Editor: Integrated with Quill, providing a rich text editor for writin
 
 User Authentication: Secure OAuth-based authentication system for user login and registration.
 
-Admin Panel: Admins can manage users, monitor activity, and maintain the content quality on the platform.
+Comments and Likes: Users can comment on blog posts and like comments to engage with the community.
+
+Admin Panel(Upcoming): Admins can manage users, monitor activity, and maintain the content quality on the platform.
 
 # Technologies Used
 
